@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ติดตามการเพาะปลูกลำไย</string>
+    <string name="my_name">ชื่อ : นิชนันต์ ตันติวัฒนไพศาล</string>
+    <string name="my_id">รหัสนักศึกษา : 61122202074</string>
+    <string name="my_nickname">ชื่อเล่น : เมล่อน</string>
+    <string name="my_favcolor">สีที่ชอบ : สีฟ้า</string>
+    <string name="my_hobby">งานอดิเรก : ฟังเพลง อ่านนิยาย</string>
+    <string name="my_favfood">อาหารที่ชอบ : ทุกอย่าง</string>
+    <string name="my_brosis">จำนวนพี่น้อง : 1 คน (ไม่มีพี่น้อง)</string>
+    <string name="my_language">ภาษาที่พูดได้ : ไทย อังกฤษ เช็ก ญี่ปุ่น จีน</string>
+    <string name="my_travelling">ประเทศที่เคยไป : ลาว, เช็ก</string>
+    <string name="my_highschool">จบจาก : โรงเรียนเบ็ญจะมะมหาราช</string>
+    <string name="my_hometown">บ้านเกิด : จังหวัดอุบลราชธานี</string>
+    <string name="my_district">อำเภอที่เกิด : อำเภอวารินชำราบ</string>
+    <string name="my_born">เกิดที่ : โรงพยาบาลสรรพสิทธิประสงค์</string>
+    <string name="my_occupation">นักศึกษาสาขาเทคโนโลยีสารสนเทศ</string>
+    <string name="my_year">ชั้นปีที่ 3</string>
+    <string name="my_section">ห้อง 2</string>
+    <string name="my_university">มหาวิทยาลัยราชภัฏสวนสุนันทา</string>
+</resources>
